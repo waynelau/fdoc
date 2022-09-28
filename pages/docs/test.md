@@ -1,6 +1,6 @@
 ---
 title: Testing Getting Started with Markdoc
-description: Some article...
+description: Some article description...
 ---
 
 # Get started with Markdoc yo!
